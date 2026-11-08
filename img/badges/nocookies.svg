@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31">
+  <rect width="88" height="31" fill="#2a160e"/>
+  
+  <rect x="0" y="0" width="88" height="1" fill="#ffffff"/>
+  <rect x="0" y="0" width="1" height="31" fill="#ffffff"/>
+  <rect x="0" y="30" width="88" height="1" fill="#404040"/>
+  <rect x="87" y="0" width="1" height="31" fill="#404040"/>
+  <text x="44" y="13" text-anchor="middle" fill="#f0d0a0" font-family="Tahoma, Arial, sans-serif" font-size="8" font-weight="700">ZERO</text>
+  <text x="44" y="23" text-anchor="middle" fill="#f0d0a0" font-family="Tahoma, Arial, sans-serif" font-size="8" font-weight="700">COOKIES</text>
+</svg>

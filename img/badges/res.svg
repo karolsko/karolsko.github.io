@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="31" viewBox="0 0 88 31">
+  <rect width="88" height="31" fill="#2a0830"/>
+  
+  <rect x="0" y="0" width="88" height="1" fill="#ffffff"/>
+  <rect x="0" y="0" width="1" height="31" fill="#ffffff"/>
+  <rect x="0" y="30" width="88" height="1" fill="#404040"/>
+  <rect x="87" y="0" width="1" height="31" fill="#404040"/>
+  <text x="44" y="13" text-anchor="middle" fill="#f0d0ff" font-family="Tahoma, Arial, sans-serif" font-size="8" font-weight="700">BEST AT</text>
+  <text x="44" y="23" text-anchor="middle" fill="#f0d0ff" font-family="Tahoma, Arial, sans-serif" font-size="8" font-weight="700">800 x 600</text>
+</svg>
