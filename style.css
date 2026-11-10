@@ -79,15 +79,33 @@ h2 {
   line-height: 1.2;
 }
 
-h2 a {
+.links {
+  display: grid;
+  width: max-content;
+  margin: 0.35rem auto;
+  justify-items: start;
+  text-align: left;
+}
+
+.links h2 {
+  margin: 0.35rem 0;
+}
+
+.links a {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.links a span {
   text-decoration: underline;
 }
 
-h2 img {
+.links img {
   width: 64px;
   height: 64px;
-  margin-right: 8px;
-  vertical-align: middle;
+  flex: none;
 }
 
 .badges {
